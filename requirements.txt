@@ -4,3 +4,5 @@ scipy
 seaborn
 scikit-learn
 statsmodels
+vega-datasets
+pydataset
