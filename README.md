@@ -3,6 +3,11 @@ My notes in Jupyter Notebooks for statistics, probability, and plotting applied 
 
 :warning: work in progress
 
+Launch on Binder:  
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ozgurkalan/STATS101/HEAD)
+
+
 ## Environment
 * [Numpy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
