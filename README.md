@@ -1,9 +1,7 @@
 # STATS101
-My statistics notes.  
+My notes in Jupyter Notebooks for statistics, probability, and plotting applied with major python libraries as an introduction to machine learning.
 
-Warning: work in progress
-
-Includes probability, math, plotting, machine learning goodies
+:warning: work in progress
 
 ## Environment
 * [Numpy](https://numpy.org/)
@@ -14,7 +12,6 @@ Includes probability, math, plotting, machine learning goodies
 * [Statsmodels](https://www.statsmodels.org/stable/index.html)
 
 ## Awesomeness
-
 ### YouTubers
 * [Zedstatistics](https://www.youtube.com/c/zedstatistics/playlists) by Justin Zeltzer: basic statistics, very awesome 
 * [Brandon Foltz](https://www.youtube.com/c/BrandonFoltz): foundations of statistics and probability as an  extra awesome prof
