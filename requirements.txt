@@ -2,9 +2,13 @@ numpy
 pandas
 scipy
 seaborn
+
 ipython
 ipywidgets
+ipympl
+
 scikit-learn
 statsmodels
+
 vega-datasets
 pydataset
