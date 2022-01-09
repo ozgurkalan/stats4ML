@@ -5,7 +5,7 @@ My notes in Jupyter Notebooks for statistics, probability, and plotting applied 
 
 Launch on Binder:  
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ozgurkalan/STATS101/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ozgurkalan/stats4ML/HEAD)
 
 
 ## Environment
