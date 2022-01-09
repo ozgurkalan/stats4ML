@@ -1,4 +1,4 @@
-# STATS101
+# stats4ML
 My notes in Jupyter Notebooks for statistics, probability, and plotting applied with major python libraries as an introduction to machine learning.
 
 :warning: work in progress
