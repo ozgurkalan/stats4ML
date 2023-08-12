@@ -27,6 +27,7 @@ Launch on Binder:
 * [Become a Probability & Statistics Master](https://www.udemy.com/share/101WJi3@MgDMjIh1JEksghHAxkKlsj6KQSYeD33Cc1uMkLU1WbP_cjGAGAZl8zOJwlaf1TGm/) by [Krista King](https://www.udemy.com/user/kristaking/)
 * [Probability and Statistics for Business and Data Science](https://www.udemy.com/share/101XSe3@jXWEm8Ji038RDwwjgSX2FEPqcwrI7ICdyKNLZRJ6xCK4Wx7I73KTEdymZYL-3WHD/) by [Jose Portilla](https://www.udemy.com/user/joseportilla/)
 * [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/share/101WaU3@x5QN8ZSMwSLC2o3FwUQ0qMXD2py3MCGYeZDVm_vL34H4gi8PisbgafKuu9lqp5RV/) by [Jose Portilla](https://www.udemy.com/user/joseportilla/)
+* [Python for Time Series Analysis](https://www.udemy.com/share/101WWM3@e5ZuD4Emr25Oa8-Wob_4LjUQgG8HadE9KHJosrQyJX_qwHW8ILEp6mJlCCl9G4lS/) by [Jose Portilla](https://www.udemy.com/user/joseportilla/)
 
 ### Githubers
 * [stats101](https://github.com/philmikejones/stats101) by Phil Mike Jones: Jupyter notes on statistical analysis and quantitative methods for social science researchers. 
