@@ -41,6 +41,7 @@ Launch on Binder:
 * [Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/): Probabilistic Programming & Bayesian Methods for Hackers
 * [Continuous Statistical Distributions](https://docs.scipy.org/doc/scipy/reference/tutorial/stats/continuous.html) by Scipy
 * [Scipy Lecture Notes](http://scipy-lectures.org/index.html): "One document to learn numerics, science, and data with Python"
+* [Forecasting: Principles and Practice](https://otexts.com/fpp3/) by Rob J Hyndman and George Athanasopoulos, Monash University, Australia
 
 ---
 ....
