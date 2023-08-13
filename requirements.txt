@@ -2,6 +2,7 @@ numpy
 pandas
 scipy
 seaborn
+dash
 
 ipython
 ipywidgets
@@ -9,6 +10,11 @@ ipympl
 
 scikit-learn
 statsmodels
+
+ozcore[all]
+
+ibis-framework
+duckdb
 
 vega-datasets
 pydataset
